@@ -100,7 +100,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-ASTRAKOBOT_IMG = "https://i.imgur.com/1oah5E2.jpg"
+ASTRAKOBOT_IMG = "https://telegra.ph/file/fd8cbc7ae2c7b9576718c.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 AstrakoBot is hosted on its own server and doesn't require any donations as of now but \
@@ -231,19 +231,19 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="Support Group",
-                                url=f"https://t.me/AstrakoBotSupport",
+                                url=f"https://t.me/VEDMATGROUP",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Getting started guide",
-                                url="https://t.me/OnePunchUpdates/29",
+                                text="⚡ MY CR3ATØR",
+                                url="https://t.me/VEDIC_MATHS_OWNER",
                             )
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Source code",
-                                url="https://github.com/Astrako/AstrakoBot",
+                                text="CHANNEL",
+                                url="https://t.me/VEDMATCH",
                             )
                         ],
                     ]

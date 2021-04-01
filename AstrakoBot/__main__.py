@@ -231,19 +231,19 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="Support Group",
-                                url=f"https://t.me/VEDMATGROUP",
+                                url=f"https://t.me/VEDMATCHAT",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="⚡MY CR3ATØR",
-                                url="https://t.me/VEDIC_MATHS_OWNER",
+                                url="https://t.me/V3DMATOWNER",
                             )
                         ],
                         [
                             InlineKeyboardButton(
                                 text="CHANNEL",
-                                url="https://t.me/VEDMATCH",
+                                url="https://t.me/SHAYRI_OF_LOVES",
                             )
                         ],
                     ]
